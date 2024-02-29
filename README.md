@@ -12,6 +12,7 @@ My core competencies include:
 I am skilled at strong back-end systems with .NET and ASP.NET and equally adept at developing user-friendly front ends using React and Angular. My approach is agile, allowing me to quickly adapt and incorporate user feedback. In my work, I frequently use Microsoft SQL Server and Azure to boost performance and create scalable solutions that meet the needs of users. I'm always keen on learning the newest trends in Microsoft Technologies, React, and Angular. I take great care in crafting accessible and responsive interfaces, ensuring I follow the best practices in version control, documentation, and testing.
 
 𝐏𝐥𝐞𝐚𝐬𝐞 𝐭𝐚𝐤𝐞 𝐚 𝐥𝐨𝐨𝐤 𝐚𝐭 𝐦𝐲 𝐩𝐚𝐬𝐭 𝐰𝐨𝐫𝐤𝐬
+~~~~~~~~~~
 𝟏. 𝐓𝐡𝐨𝐦𝐚𝐬 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥, https://www.thomas.co/, is a leading provider of psychometric assessments and talent management solutions with a focus on small and medium-sized businesses.
 
 I did on this project:
