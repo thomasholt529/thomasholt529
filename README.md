@@ -124,3 +124,118 @@ I built Office Space Planner, an intuitive and robust software. The application 
 - Implemented Azure Services for storing designs and user data, ensuring accessibility across devices.
 - Utilized PowerShell scripting to streamline application setup and configuration.
 - Tech Stacks: .NET Core, WPF, DirectX, Entity Framework, Microsoft SQL Server, Azure Services, UWP, Blend, PowerShell Scripting
+
+
+
+𝟖. 𝐓𝐡𝐞 𝐓𝐢𝐥𝐞 𝐒𝐡𝐨𝐩 - https://www.tileshop.com/, wanted a new eCommerce website to improve their customer shopping experience and integrate with their new ERP system, SAP. Their old website lacked full eCommerce capabilities and had issues with performance and scalability.
+
+To address this, I recommend using Sitecore XP Version 9 as the Content Management System, Azure Cloud Services for hosting, and WECO eCommerce for cart functionality and SAP integration.
+
+I worked closely with The Tile Shop's design team to refresh the website's appearance and created a custom, cloud-based hosting solution using Microsoft Azure.
+
+Key Features of the new website included:
+- Synchronization of store location and product catalog data from SAP to Sitecore.
+- A high-performance, faceted product search engine using Solr.
+- Dealer-specific pricing and Azure Experience Manager integration for product images.
+- Custom shopping cart functionality integrating with WECO eCommerce.
+- Easy content editing with Sitecore Experience Editor.
+
+
+
+𝟗. 𝐖𝐒𝐁 - https://www.wsbeng.com/
+WSB needed to upgrade their SharPoint system to make it more user-friendly and flexible for their employees. 
+ 
+Phase 1: Development of New Client Portal
+• Built the core of the Client Portal using SharePoint Online, leveraging SPFx for custom web parts and extensions.
+• Used SPFx to integrate the team organization chart, task management system, and project metrics dashboard.
+• Developed dynamic and interactive components like the dashboard and forms using React.js, ensuring a seamless user experience.
+• Utilized Next.js for server-side rendering and improving the performance of SharePoint web parts.
+• Automated workflows related to project tasks, document management, and notifications within the portal.
+• Integrated Power BI for displaying and analyzing project metrics directly on the Client Portal.
+	 
+Phase 2: Introduction of Wellness and Employee Portal
+• Used SharePoint Online with modern templates for a refreshed look and better navigation
+• Integrated an employee directly using SharePoint lists, enhanced with SPFx for a custom interface.
+• Created custom forms and data entry solutions for wellness program management and event organizations
+• Implemented Azure Functions to handle serverless computing tasks, like processing form submissions or data integration
+• Utilized SQL Server for robust data management, particularly for storing and retrieving employee and wellness program data.
+	 
+Tech Stacks: SharePoint Online, SharePoint Framework, React.js, TypeScript, Next.js, HTML5, CSS3, Microsoft Power Automate, Azure Functions, Microsoft PowerApps, Microsoft Power BI, Microsoft SQL Server.
+
+
+
+𝟏𝟎. 𝐂𝐨𝐦𝐩𝐞𝐞𝐫 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 - https://www.compeer.com/, specializing in farm insurance, realized they needed better tools for educating farmers about their insurance products, particularly for crop insurance and dairy revenue protection. They were relying on basic tools or spreadsheets, which were challenging to maintain with constantly changing data.
+
+I developed two specialized web applications for Compeer Financial to enhance their insurance services for farmers:
+- Crop Insurance Decision Tool: A custom application that generates tailored insurance quotes for farmers, integrating factors like crop prices and field locations. It integrates with Salesforce and produces PDF format quotes.
+- Dairy Revenue Protection Calculator: I built a calculator using Microsoft Azure and SQL database, processing dairy market data for pricing simulations. It includes email alerts and is integrated with Marketo for marketing automation.
+- Technologies used in this project include React, Next.js, TypeScript, HTML5, CSS 3, Umbraco, .NET, SQL Server, and Azure.
+
+
+
+𝟏𝟏. 𝐃𝐫𝐚𝐠𝐨𝐭𝐞𝐜 𝐔𝐒𝐀 - https://www.dragotec.com/, the North American dealer of Olimac products, needed a digital solution to manage and share their sales collateral, marketing materials, and service manuals. They wanted to move away from their outdated paper-based system to a more efficient digital platform.
+
+To address this, I developed a dealer information portal, which became a centralized hub for all Dragotec USA's documents. This portal was integrated with their CRM system, Microsoft Dynamics 365, ensuring that dealer information and activities were synced and updated in real-time.
+
+- Seamlessly integrated the portal with Dynamics 365 to sync dealer login information and activities, handling multiple login paths for accurate data synchronization.
+- Created a user-friendly portal where dealers could access pricing, service, and sales information, accommodating various login requirements.
+- Integrated Dragotec USA’s online parts catalog within the portal, ensuring dealers have easy access to current parts manuals.
+- Chose Umbraco CMS for its simplicity and compatibility with .NET and Dynamics 365, using it to manage sales and marketing documents efficiently.
+- Technologies used in this project included .NET, Azure, Microsoft SQL Server, Umbraco, Microsoft Dynamics 365, and OData.
+
+
+
+𝟏𝟐. 𝐁𝐚𝐤𝐞𝐫 𝐅𝐮𝐫𝐧𝐢𝐭𝐮𝐫𝐞 - https://www.bakerfurniture.com/, needed a new website development after separating from its parent company and facing an incomplete migration project.
+- Successfully migrated their Umbraco websites to a Microsoft Azure environment, including integrating a new Product Information Management System.
+- Focused on maintaining the site and adding new features to improve its functionality.
+- Implemented an “in-stock” toggle on the website, powered by a data spreadsheet API, to show customers real-time product availability.
+- Had plans to upgrade wishlist functionalities and transition away from certain outdated digital services.
+
+
+
+𝟏𝟑. 𝐏𝐢𝐜𝐟𝐥𝐨𝐰 - The Only Online Gallery You'll Ever Need - https://picflow.com/
+
+Picflow helps all kinds of visual content creators share their content in a more efficient and beautiful way. It also helps improve customer experience and saves lots of time on organizing and managing all your images.
+
+I designed 5 functional Picflow products to create solutions tailored to a few specific use cases. These include:
+- Built a React.js drag-and-drop interface with 3D gallery views using Three.js, ideal for virtual real estate tours.
+- Implemented Redux for feature control and GraphQL for efficient image data processing.
+- Designed a performance-optimized dashboard using Next.js.
+- Created a system for image feedback using GraphQL with a reliable notification setup.
+- Developed interactive 3D property tours integrating Cloudinary for media management.
+- Automated image optimization and handling with Cloudinary and GraphQL.
+- Implemented security for different user levels.
+- Improved search and filtering using Elasticsearch.
+- Tech Stacks: React.js, Next.js, TypeScript, Redux, HTML5, CSS 3, Tailwind CSS, Three.js, GraphQL, Webpack, Jest, Cloudinary
+
+
+
+𝟏𝟒. 𝐊𝐢𝐝𝐬 𝐀𝐜𝐚𝐝𝐞𝐦𝐲: Education for the next generation - https://www.kidsacademy.mobi/
+At Kids Academy, I developed an educational platform with engaging features for children's learning:
+- Created 2D/3D educational games using Babylon.js, making learning fun and immersive.
+- Integrated AI to personalize worksheets based on each child's learning progress.
+- Used Lottie by Airbnb to add high-quality animations to learning materials.
+- Developed the platform with Angular, ensuring it works smoothly on various devices like tablets and smartphones.
+- Integrated WebRTC for live voice/video chats and messaging, enabling interactive peer-to-peer communication.
+- Employed GraphQL with PostgreSQL for real-time progress tracking and data updates.
+- Integrated Stripe for safe subscription and purchase processing.
+- Implemented service workers for offline access to essential educational content.
+- Used Storybook for consistent and efficient UI development.
+- Utilized Webpack for front-end asset optimization, maintaining platform speed and responsiveness.
+- Developed features for parents to monitor and manage their child’s learning experience.
+- Implemented safe sharing options for achievements, overseen by parents, to encourage community interaction.
+- Tech Stacks: AWS, PostgreSQL, Redis, AWS, Stripe, GraphQL, JavaScript, Angular, Babylons.js, PixiJS, Storybook, Webpack, WebRTC, Lottie by Airbnb
+
+
+
+𝟏𝟓. 𝐖𝐚𝐠𝐦𝐨 - https://wagmo.io/, is a pet insurance company that offers monthly wellness plans that reimburse routine care.
+At Wagmo, a pet insurance company, I developed various features to enhance their digital platform:
+- Built a dashboard using Angular and Angular Material for users to manage their insurance plans, submit claims, and check statuses, with NgRx for state management.
+- Streamlined the onboarding flow using Angular Forms, making it easy for users to enter pet details and select plans.
+- Integrated PayPal and Venmo APIs for seamless payment transactions and reimbursements.
+- Employed Google Analytics and Klaviyo to track user activities and gather insights for marketing.
+- Created a smooth checkout process using Angular and RxJS, enhancing the user experience.
+- Developed interactive tools for comparing insurance plans, with reactive updates using Angular and RxJS.
+- Set up real-time notifications using Firebase for updates on claims, plan changes, and reminders.
+- Built a comprehensive admin panel for staff to manage client accounts and insurance claims.
+- Tech Stacks: Angular, TypeScript, RxJS, Angular Material, NgRx, Angular Universal, Webpack, Jasmine, Firebase, Google analytics
