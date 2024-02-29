@@ -14,7 +14,6 @@ I am skilled at strong back-end systems with .NET and ASP.NET and equally adept 
 𝐏𝐥𝐞𝐚𝐬𝐞 𝐭𝐚𝐤𝐞 𝐚 𝐥𝐨𝐨𝐤 𝐚𝐭 𝐦𝐲 𝐩𝐚𝐬𝐭 𝐰𝐨𝐫𝐤𝐬
 
 𝟏. 𝐓𝐡𝐨𝐦𝐚𝐬 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥, https://www.thomas.co/, is a leading provider of psychometric assessments and talent management solutions with a focus on small and medium-sized businesses.
-
 I did on this project:
 - Built a responsive assessment interface with React and Next.js, enhancing performance and SEO
 - Developed a React dashboard for managing assessments, using GraphQL for data retrieval.
@@ -25,10 +24,9 @@ I did on this project:
 - Deployed the platform on AWS with robust security measures and regular aduits.
 - Tech Stacks: React, Next.js, TypeScript, Material UI, HTML5, CSS3, .NET, ASP.NET WebForms, ASP.NET MVC 5, ASP.NET Core, AWS, MS SQL Server, GraphQL, Elasticsearch, NServiceBus
 
-~~~~~~~~~~
+
 
 𝟐. 𝟏𝐊𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 - https://1konnection.com/ - is the deal marketplace platform that can connect buyers and sellers confidentially. It's a suitable tool for all who seek senior housing and healthcare real estate and are interested in useful connections.
-
 I did on this project:
 - Crafted a secure platform for listing properties with advanced data protection.
 - Integrated an AI system for matching buyer preferences with properties.
@@ -43,4 +41,31 @@ I did on this project:
 - Created a notification system for match and meeting alerts.
 - Tech Stacks: React, Azure, Microsoft SQL Server, .NET Core, Redis, Microsoft Azure Bob Storage, HTML5, CSS3, TypeScript, Next.js
 
-~~~~~~~~~~
+
+
+𝟑. 𝐒𝐭𝐨𝐧𝐞𝐗 - https://www.stonex.com/ - a leading provider of online trading services.
+- Developed user interfaces with Angular for personalized data display.
+- Enabled real-time updates using WebSocket and SignalR.
+- Integrated Chart.js in Angular for data visualization.
+- Implemented secure login with OAuth2.0 and ASP.NET Core Identity.
+- Created validated forms in Angular for user input and orders.
+- Built RESTful APIs with ASP.NET Core for trade processing and data storage.
+- Utilized .NET for analytics and report generation.
+- Integrated secure payment processing.
+- Ensured API security with ASP.NET Core middleware and IdentityServer4.
+- Employed a microservices architecture using .NET, Docker, and Kubernetes.
+- Technologies: .NET, ASP.NET MVC, ASP.NET Core Identity, ASP.NET Core, SignalR, Angular, RxJS, NgRX, TypeScript, Microsoft SQL Server, Docker, Chart.js
+
+
+
+𝟒. 𝐒𝐜𝐡𝐮𝐦𝐚𝐜𝐡𝐞𝐫 - https://schumacher.com/, is a prestigious supplier of fabric, wallpaper, and trim known for their commitment to beauty and luxury.
+- Developed a user-friendly website adaptable to various devices, featuring product galleries, detailed pages, shopping cart, and checkout functions.
+- Integrated with Microsoft Dynamics CRM using RESTful APIs, enabling real-time updates of product information like price and availability on the website.
+- Built a custom tool for order processing and inventory management, using .NET Core and ASP.NET MVC, connected to Microsoft SQL Server.
+- Implemented a subscription feature using Angular and .NET for users to receive updates.
+- Created user profiles and account management systems using ASP.NET MVC.
+- Automated order tracking and shipping updates through integrated logistics APIs.
+- Enabled dynamic product searches and filtering using Angular and RxJS.
+- Simplified website content updates with a CMS developed in .NET Core.
+- Implemented live chat support for customer queries.
+- Technologies Used: Microsoft Dynamics, Microsoft SQL Server, .NET Core, .NET, ASP.NET MVC, HTML5, LESS, Angular, RxJS
