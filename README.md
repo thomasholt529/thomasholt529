@@ -42,3 +42,5 @@ I did on this project:
 - Built efficient RESTful APIs for data integration.
 - Created a notification system for match and meeting alerts.
 - Tech Stacks: React, Azure, Microsoft SQL Server, .NET Core, Redis, Microsoft Azure Bob Storage, HTML5, CSS3, TypeScript, Next.js
+
+~~~~~~~~~~
