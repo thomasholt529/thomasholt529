@@ -14,6 +14,7 @@ I am skilled at strong back-end systems with .NET and ASP.NET and equally adept 
 𝐏𝐥𝐞𝐚𝐬𝐞 𝐭𝐚𝐤𝐞 𝐚 𝐥𝐨𝐨𝐤 𝐚𝐭 𝐦𝐲 𝐩𝐚𝐬𝐭 𝐰𝐨𝐫𝐤𝐬
 
 𝟏. 𝐓𝐡𝐨𝐦𝐚𝐬 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥, https://www.thomas.co/, is a leading provider of psychometric assessments and talent management solutions with a focus on small and medium-sized businesses.
+
 I did on this project:
 - Built a responsive assessment interface with React and Next.js, enhancing performance and SEO
 - Developed a React dashboard for managing assessments, using GraphQL for data retrieval.
@@ -27,6 +28,7 @@ I did on this project:
 
 
 𝟐. 𝟏𝐊𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 - https://1konnection.com/ - is the deal marketplace platform that can connect buyers and sellers confidentially. It's a suitable tool for all who seek senior housing and healthcare real estate and are interested in useful connections.
+
 I did on this project:
 - Crafted a secure platform for listing properties with advanced data protection.
 - Integrated an AI system for matching buyer preferences with properties.
@@ -69,3 +71,56 @@ I did on this project:
 - Simplified website content updates with a CMS developed in .NET Core.
 - Implemented live chat support for customer queries.
 - Technologies Used: Microsoft Dynamics, Microsoft SQL Server, .NET Core, .NET, ASP.NET MVC, HTML5, LESS, Angular, RxJS
+
+
+
+𝟓. 𝐖𝐢𝐧𝐂𝐥𝐞𝐚𝐧𝐞𝐫 - https://www.wincleaner.org/
+
+The goal behind WinCleaner was to create a simple tool that would help remove clutter and speed up Windows computers. Another objective of the app was to clean up unnecessary files, improve computer processing, ensure private browsing, and help computers start up faster.
+
+- Used the Windows API and .NET to identify and eliminate temporary and junk files, improving system efficiency.
+- Automated the process of clearing non-critical system logs using the .NET Framework.
+- Integrated functionality to clear the cache of popular web browsers, enhancing both privacy and storage management.
+- Implemented algorithms to identify and remove duplicate files, optimizing storage use.
+- Streamlined the startup process by managing startup programs, effectively reducing boot time.
+- Designed an intuitive WPF-based interface, making the tool accessible for all users.
+- Included features to clean browsing histories and cookies, safeguarding user privacy.
+- Leveraged UWP to integrate cloud services for app updates and settings synchronization.
+- Built tools to provide real-time monitoring of system performance metrics.
+- Stored user settings in a local SQL Server database, allowing for a tailored cleaning experience.
+- Created scheduling options for users to automate maintenance tasks.
+- Tech Stacks: .NET Framework, WPF, Windows API, UWP, Microsoft SQL Server
+
+
+
+𝟔. 𝐂𝐚𝐛𝐢𝐧𝐞𝐭 𝐖𝐢𝐳𝐚𝐫𝐝 - Powerful Woodworking Furniture Design Software - https://sketchlist.com/furniture/cabinet-wizard/
+
+I created the Cabinet Wizard as an add-on for Sketchlist 3D. The Cabinet Wizard is a woodworking furniture design software that helps you easily build and adjust 3D furniture models. This powerful tool boasts a variety of features and benefits, including: 
+
+- Implemented DirectX for 3D model rendering, allowing users to modify pre-built furniture designs.
+- Developed a system using C# where changes to one furniture part auto-adjust related elements.
+- Created a user-accessible library of furniture templates, stored in Microsoft SQL Server.
+- Designed an intuitive interface with WPF and Blend for Visual Studio.
+- Ensured smooth integration for importing and exporting designs using the .NET Framework.
+- Implemented Azure Services for cloud storage, facilitating access across devices.
+- Provided tools for adjusting dimensions and materials, using C# and WPF, with configurations saved in SQL Server.
+- Utilized ClickOnce for deploying software updates.
+- Integrated comprehensive tutorials and documentation directly into the app.
+- Enabled complex customizations through PowerShell scripting.
+- Tech Stacks: .NET Framework, WPF, C#, Microsoft SQL Server, Entity Framework, DirectX, Microsoft Azure Services, UWP, Blend, ClickOnce, PowerShell Scripting
+
+
+
+𝟕. 𝐎𝐟𝐟𝐢𝐜𝐞 𝐒𝐩𝐚𝐜𝐞 𝐏𝐥𝐚𝐧𝐧𝐞𝐫 - https://www.intellisell3d.com
+
+I built Office Space Planner, an intuitive and robust software. The application allows users to quickly and easily turn 2D office space plans into fully explorable and interactive 3D scenes. It enables users to configure and plan their office space virtually through Geometric Algorithms that run in the background. 
+
+- Used DirectX and .NET Core to render 3D models from 2D plans.
+- Implemented real-time 3D rendering for virtual exploration of office spaces, integrating DirectX graphics within a WPF UI.
+- Created a WPF-based interface for easy placement of furniture and décor items in the 3D space.
+- Enabled users to modify the appearance of walls, floors, and furniture using DirectX for texture handling.
+- Added capabilities to simulate various lighting conditions using DirectX.
+- Allowed importing of 2D plans and exporting of 3D models, using .NET Core for file operations.
+- Implemented Azure Services for storing designs and user data, ensuring accessibility across devices.
+- Utilized PowerShell scripting to streamline application setup and configuration.
+- Tech Stacks: .NET Core, WPF, DirectX, Entity Framework, Microsoft SQL Server, Azure Services, UWP, Blend, PowerShell Scripting
